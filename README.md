@@ -22,7 +22,7 @@ database.sqlite: Contains the table 'Reviews'
 
 ### Columns
 - IdRow: Id
-- 0ProductId : Unique identifier for the product
+- ProductId : Unique identifier for the product
 - UserId : Unqiue identifier for the user
 - ProfileName : Profile name of the user
 - HelpfulnessNumerator : Number of users who found the review helpful
@@ -33,4 +33,7 @@ database.sqlite: Contains the table 'Reviews'
 - Text : Text of the review
 
 ## Data Cleaning and preperation
-The data cleaning and preperation has been done once which can be refered in "T-SNE for Amazon food reviews". This data is stored and used in all the other models directly.
+The data cleaning and preperation has been done only once which can be refered in <a href="https://github.com/NIkhileshOV/Analysis-of-Amazon-Fine-Food-Reviews/tree/master/T-SNE%20for%20Amazon%20food%20reviews"> T-SNE for Amazon food reviews </a>. This data is stored and used in all the other models directly.
+
+# Acknowledgements
+<a href="https://www.appliedaicourse.com/">AppliedAICourse</a>
