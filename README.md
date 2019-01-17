@@ -1,5 +1,5 @@
 # Analysis-of-Amazon-Fine-Food-Reviews
-Predict review polarity by performing analysis on Amazon Fine Food Reviews dataset while applying various machine learning algorithms.
+Predict review polarity by performing analysis on Amazon Fine Food Reviews dataset while applying various machine learning algorithms and clustering techniques.
 
 ## Data
 The data has been taken from https://www.kaggle.com/snap/amazon-fine-food-reviews.
